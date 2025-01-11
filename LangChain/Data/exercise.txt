@@ -1,0 +1,37 @@
+Exercise 1: Variable Assignment
+Write a Python program to:
+
+Create a variable to store your age and print it.
+Update the variable by adding 5 years to it and print the updated age.
+
+
+Exercise2: Type Casting
+
+Write a program that:
+
+Accepts a string input from the user and converts it into an integer.
+Multiply the integer by 10 and print the result.
+
+Exercise 3: String Manipulation
+Write a program to:
+
+Ask the user to input their full name.
+Convert it to uppercase and print it.
+Count and print the number of characters (excluding spaces).
+
+
+Exercise 4: String Formatting and Indexing
+Write a program that:
+
+Takes a user's favorite color as input.
+Extracts and prints the first and last character of the color.
+Prints the color in a sentence using string formatting.
+
+Exercise 5: Type Casting Challenge
+Write a program that:
+
+Asks the user for their age (as a string) and height (as a float).
+Converts the age to an integer and the height to a string.
+Prints a message combining both values using proper type casting.
+
+
