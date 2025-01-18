@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-core
+pypdf
+tqdm
+faiss-cpu
+langchain-google-genai
