@@ -1,0 +1,6 @@
+langchain
+langchain-community
+faiss-cpu
+langchain-cohere
+langchain-groq
+langchain-google-genai
